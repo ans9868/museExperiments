@@ -13,3 +13,13 @@ We also want to stream from specific type so maybe 1 type for ppg and for eeg in
 
 muselsl record --type EEG
 muselsl record --type PPG
+
+** quickstart **
+
+muselsl list
+muselsl stream
+
+muselsl view
+muselsl record --duration 60
+
+# duration is in seconds

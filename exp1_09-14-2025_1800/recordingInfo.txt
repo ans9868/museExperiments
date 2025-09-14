@@ -1,0 +1,12 @@
+ EEG_recording_2025-09-14-22.33.39.csv
+^resting state without headphones
+
+EEG_recording_2025-09-14-22.44.28.csv
+^resting state with headphones on 
+
+EEG_recording_2025-09-14-22.53.16.csv
+
+^ resting state after headphones 
+
+headphones set to 10hz and 160hz to be 40hz bineral beat
+
